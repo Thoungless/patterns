@@ -1,0 +1,7 @@
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Template Method (IШаблонный метод)\Template Method (IШаблонный метод)\obj\Debug\Template Method (IШаблонный метод).csprojAssemblyReference.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Template Method (IШаблонный метод)\Template Method (IШаблонный метод)\obj\Debug\Template Method (IШаблонный метод).csproj.CoreCompileInputs.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Template Method (IШаблонный метод)\Template Method (IШаблонный метод)\bin\Debug\Template Method (IШаблонный метод).exe.config
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Template Method (IШаблонный метод)\Template Method (IШаблонный метод)\bin\Debug\Template Method (IШаблонный метод).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Template Method (IШаблонный метод)\Template Method (IШаблонный метод)\bin\Debug\Template Method (IШаблонный метод).pdb
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Template Method (IШаблонный метод)\Template Method (IШаблонный метод)\obj\Debug\Template Method (IШаблонный метод).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Template Method (IШаблонный метод)\Template Method (IШаблонный метод)\obj\Debug\Template Method (IШаблонный метод).pdb
