@@ -1,0 +1,7 @@
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Наблюдатель (Obserber)\Наблюдатель (Obserber)\obj\Debug\Наблюдатель (Obserber).csprojAssemblyReference.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Наблюдатель (Obserber)\Наблюдатель (Obserber)\obj\Debug\Наблюдатель (Obserber).csproj.CoreCompileInputs.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Наблюдатель (Obserber)\Наблюдатель (Obserber)\bin\Debug\Наблюдатель (Obserber).exe.config
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Наблюдатель (Obserber)\Наблюдатель (Obserber)\bin\Debug\Наблюдатель (Obserber).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Наблюдатель (Obserber)\Наблюдатель (Obserber)\bin\Debug\Наблюдатель (Obserber).pdb
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Наблюдатель (Obserber)\Наблюдатель (Obserber)\obj\Debug\Наблюдатель (Obserber).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Наблюдатель (Obserber)\Наблюдатель (Obserber)\obj\Debug\Наблюдатель (Obserber).pdb
