@@ -1,0 +1,7 @@
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\stategy\stategy\obj\Debug\stategy.csprojAssemblyReference.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\stategy\stategy\obj\Debug\stategy.csproj.CoreCompileInputs.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\stategy\stategy\bin\Debug\stategy.exe.config
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\stategy\stategy\bin\Debug\stategy.exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\stategy\stategy\bin\Debug\stategy.pdb
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\stategy\stategy\obj\Debug\stategy.exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\stategy\stategy\obj\Debug\stategy.pdb
