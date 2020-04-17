@@ -1,0 +1,7 @@
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Посетитель (Visitor)\Посетитель (Visitor)\bin\Debug\Посетитель (Visitor).exe.config
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Посетитель (Visitor)\Посетитель (Visitor)\bin\Debug\Посетитель (Visitor).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Посетитель (Visitor)\Посетитель (Visitor)\bin\Debug\Посетитель (Visitor).pdb
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Посетитель (Visitor)\Посетитель (Visitor)\obj\Debug\Посетитель (Visitor).csprojAssemblyReference.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Посетитель (Visitor)\Посетитель (Visitor)\obj\Debug\Посетитель (Visitor).csproj.CoreCompileInputs.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Посетитель (Visitor)\Посетитель (Visitor)\obj\Debug\Посетитель (Visitor).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Посетитель (Visitor)\Посетитель (Visitor)\obj\Debug\Посетитель (Visitor).pdb
