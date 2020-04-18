@@ -1,0 +1,7 @@
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Состояние (State)\Состояние (State)\bin\Debug\Состояние (State).exe.config
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Состояние (State)\Состояние (State)\bin\Debug\Состояние (State).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Состояние (State)\Состояние (State)\bin\Debug\Состояние (State).pdb
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Состояние (State)\Состояние (State)\obj\Debug\Состояние (State).csprojAssemblyReference.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Состояние (State)\Состояние (State)\obj\Debug\Состояние (State).csproj.CoreCompileInputs.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Состояние (State)\Состояние (State)\obj\Debug\Состояние (State).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Состояние (State)\Состояние (State)\obj\Debug\Состояние (State).pdb
