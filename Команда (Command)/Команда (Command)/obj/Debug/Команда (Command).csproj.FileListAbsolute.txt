@@ -1,0 +1,7 @@
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Команда (Command)\Команда (Command)\bin\Debug\Команда (Command).exe.config
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Команда (Command)\Команда (Command)\bin\Debug\Команда (Command).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Команда (Command)\Команда (Command)\bin\Debug\Команда (Command).pdb
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Команда (Command)\Команда (Command)\obj\Debug\Команда (Command).csprojAssemblyReference.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Команда (Command)\Команда (Command)\obj\Debug\Команда (Command).csproj.CoreCompileInputs.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Команда (Command)\Команда (Command)\obj\Debug\Команда (Command).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Команда (Command)\Команда (Command)\obj\Debug\Команда (Command).pdb
