@@ -1,0 +1,7 @@
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Singleton (Одиночка)\Singleton (Одиночка)\bin\Debug\Singleton (Одиночка).exe.config
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Singleton (Одиночка)\Singleton (Одиночка)\bin\Debug\Singleton (Одиночка).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Singleton (Одиночка)\Singleton (Одиночка)\bin\Debug\Singleton (Одиночка).pdb
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Singleton (Одиночка)\Singleton (Одиночка)\obj\Debug\Singleton (Одиночка).csprojAssemblyReference.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Singleton (Одиночка)\Singleton (Одиночка)\obj\Debug\Singleton (Одиночка).csproj.CoreCompileInputs.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Singleton (Одиночка)\Singleton (Одиночка)\obj\Debug\Singleton (Одиночка).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Singleton (Одиночка)\Singleton (Одиночка)\obj\Debug\Singleton (Одиночка).pdb
