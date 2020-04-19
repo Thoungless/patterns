@@ -1,0 +1,7 @@
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Цепочка обязанностей (Chain of responsibility)\Цепочка обязанностей (Chain of responsibility)\bin\Debug\Цепочка обязанностей (Chain of responsibility).exe.config
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Цепочка обязанностей (Chain of responsibility)\Цепочка обязанностей (Chain of responsibility)\bin\Debug\Цепочка обязанностей (Chain of responsibility).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Цепочка обязанностей (Chain of responsibility)\Цепочка обязанностей (Chain of responsibility)\bin\Debug\Цепочка обязанностей (Chain of responsibility).pdb
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Цепочка обязанностей (Chain of responsibility)\Цепочка обязанностей (Chain of responsibility)\obj\Debug\Цепочка обязанностей (Chain of responsibility).csprojAssemblyReference.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Цепочка обязанностей (Chain of responsibility)\Цепочка обязанностей (Chain of responsibility)\obj\Debug\Цепочка обязанностей (Chain of responsibility).csproj.CoreCompileInputs.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Цепочка обязанностей (Chain of responsibility)\Цепочка обязанностей (Chain of responsibility)\obj\Debug\Цепочка обязанностей (Chain of responsibility).exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\Цепочка обязанностей (Chain of responsibility)\Цепочка обязанностей (Chain of responsibility)\obj\Debug\Цепочка обязанностей (Chain of responsibility).pdb
