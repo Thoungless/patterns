@@ -5,27 +5,20 @@ using System.Text;
 using System.Threading.Tasks;
 using AbstractFactory.ProjectTeamFactory;
 
-namespace AbstractFactory.DesktopProject
+namespace AbstractFactory.WebsiteProject
 {
-    class QATester : Tester
+    class WebTester : Tester
     {
         public string name { get; private set; }
 
-        internal QATester QATester1
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public QATester(string name)
+        public WebTester(string name)
         {
             this.name = name;
         }
+
         public void TestCode()
         {
-            Console.WriteLine($"Я {name} тестирую код");
+            Console.WriteLine("Тестирую веб проект");
         }
     }
 }

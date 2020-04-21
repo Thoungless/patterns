@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace Наблюдатель__Obserber_
 {
-    class Magnit : WorkPlace
+    interface IObservebable
     {
+        void AddObserver(IObserver ob);
+
+        void RemoveObserver(IObserver ob);
+
+        void NotifyObserves(string message);
 
     }
 }

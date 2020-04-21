@@ -53,12 +53,14 @@
     <Compile Include="ProjectTeamFactory\ProjectTeamFactory.cs" />
     <Compile Include="ProjectTeamFactory\Tester.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WebsiteProject\PhpDeveloper.cs" />
+    <Compile Include="WebsiteProject\WebPM.cs" />
+    <Compile Include="WebsiteProject\WebTeamProject.cs" />
+    <Compile Include="WebsiteProject\WebTester.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="WebsiteProject\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

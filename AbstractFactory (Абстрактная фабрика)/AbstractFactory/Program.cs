@@ -1,5 +1,6 @@
 ﻿using AbstractFactory.DesktopProject;
 using AbstractFactory.ProjectTeamFactory;
+using AbstractFactory.WebsiteProject;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,8 +18,13 @@ namespace AbstractFactory
             ProjectManager pMDesktop = desktopTeam.GetProjectManager("Олег");
             Tester qATester = desktopTeam.GetTester("Вася");
 
+            ProjectTeamFactory.ProjectTeamFactory webTeam = new WebTeamProject();
+            Developer phpDev = webTeam.GetDeveloper("Ваня");
+            ProjectManager webPm = webTeam.GetProjectManager("Дима");
+            Tester webTester = webTeam.GetTester("Аркадий");
 
-            Console.WriteLine("desktop team");
+
+            Console.WriteLine("desktopTeam");
             dotnetDev.WriteCode();
             pMDesktop.ManageProject();
             qATester.TestCode();
@@ -26,6 +32,17 @@ namespace AbstractFactory
             pMDesktop.HastenDeveloper(dotnetDev);
             Console.WriteLine();
             pMDesktop.HastenTester(qATester);
+
+            Console.WriteLine();
+
+            Console.WriteLine("webTeam");
+            phpDev.WriteCode();
+            webPm.ManageProject();
+            webTester.TestCode();
+            Console.WriteLine();
+            webPm.HastenDeveloper(phpDev);
+            Console.WriteLine();
+            webPm.HastenTester(webTester);
 
             Console.ReadKey();
         }

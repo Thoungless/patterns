@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Наблюдатель__Obserber_
 {
-    class Offise : WorkPlace
+    interface IObserver
     {
-
+        void Update(string mes);
     }
 }

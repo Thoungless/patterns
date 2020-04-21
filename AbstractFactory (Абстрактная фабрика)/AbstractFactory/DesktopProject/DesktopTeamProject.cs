@@ -9,19 +9,10 @@ namespace AbstractFactory.DesktopProject
 {
     class DesktopTeamProject : ProjectTeamFactory.ProjectTeamFactory
     {
-        public Developer GetDeveloper(string name)
-        {
-            return new DotNetDeveloper(name);
-        }
+        public Developer GetDeveloper(string name) => new DotNetDeveloper(name);
 
-        public ProjectManager GetProjectManager(string name)
-        {
-            return new PMDesktop(name);
-        }
+        public ProjectManager GetProjectManager(string name) => new PMDesktop(name);
 
-        public Tester GetTester(string name)
-        {
-            return new QATester(name);
-        }
+        public Tester GetTester(string name) => new QATester(name);
     }
 }

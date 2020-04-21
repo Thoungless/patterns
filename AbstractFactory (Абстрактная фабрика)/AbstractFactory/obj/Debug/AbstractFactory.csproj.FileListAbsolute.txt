@@ -5,3 +5,10 @@ C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\AbstractFactory
 C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
 C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
 C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\AbstractFactory (Абстрактная фабрика)\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\AbstractFactory (Абстрактная фабрика)\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\AbstractFactory (Абстрактная фабрика)\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\AbstractFactory (Абстрактная фабрика)\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\AbstractFactory (Абстрактная фабрика)\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\AbstractFactory (Абстрактная фабрика)\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\fffff\OneDrive\Рабочий стол\Паттерны\AbstractFactory (Абстрактная фабрика)\AbstractFactory\bin\Debug\AbstractFactory.pdb

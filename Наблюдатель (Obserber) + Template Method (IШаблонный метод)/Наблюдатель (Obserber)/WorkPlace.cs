@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Наблюдатель__Obserber_
 {
-    abstract class WorkPlace : IObservebable
+    class WorkPlace : IObservebable
     {
         public List<IObserver> workers;
         private OrdersInfo oi;
@@ -15,7 +15,7 @@ namespace Наблюдатель__Obserber_
             workers = new List<IObserver>();
             oi = new OrdersInfo();
         }
-       
+
         public void AddObserver(IObserver ob)
         {
             workers.Add(ob);
@@ -27,23 +27,12 @@ namespace Наблюдатель__Obserber_
             workers.Remove(ob);
         }
 
-        public void NotifyObserves()
+        public void NotifyObserves(string message) 
         {
             foreach (var worker in workers)
             {
-                worker.Update(oi);
+                worker.Update(message);
             }
-        }
-
-        public void Market()
-        {
-            Random rnd = new Random();
-            int nxt = rnd.Next(0, 2);
-            if (nxt == 1)
-                oi.HasOrder = true;
-            else
-                oi.HasOrder = false;
-            NotifyObserves();
         }
     }
 }

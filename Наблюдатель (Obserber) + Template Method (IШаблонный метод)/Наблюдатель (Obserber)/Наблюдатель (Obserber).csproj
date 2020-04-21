@@ -43,12 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Offise.cs" />
     <Compile Include="IObservebable.cs" />
     <Compile Include="IObserver.cs" />
-    <Compile Include="Magnit.cs" />
     <Compile Include="OrderPicker.cs" />
-    <Compile Include="OrdersInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Programmer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

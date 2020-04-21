@@ -21,7 +21,7 @@ namespace Наблюдатель__Obserber_
         protected abstract void LeftWorkplace();
         protected abstract void CameWorklace();
 
-        public abstract void Update(object ob);
+        public abstract void Update(string mes);
 
     }
 }
